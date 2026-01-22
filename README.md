@@ -5,7 +5,7 @@
 i do all kinds of stuff, from programming, to design, to 3D modeling and trying to keep my bonsai alive
 
 ## about me:
-- automation technitian
+- automation technician
 - web developer (in learning)
 
 ## current Projects
